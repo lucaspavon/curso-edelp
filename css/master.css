@@ -1,0 +1,36 @@
+body{
+  font-family: Inter;
+}
+
+h5{
+  justify-content: center;
+}
+.btn{
+  margin-left: 4rem;
+}
+
+h6{
+  color: White;
+}
+
+.card{
+  border-color: #DE1D22;
+  border-width: 2px;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+p{
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.fas{
+  font-size: 4rem;
+  color: #DE1D22;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
