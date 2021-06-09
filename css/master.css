@@ -1,5 +1,5 @@
 body{
-  font-family: Inter;
+  font-family: Inter !important;
 }
 
 h5{
@@ -33,4 +33,18 @@ p{
   margin: auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
+}
+
+.row1{
+  border-width: 2px;
+  border-color: #DE1D22;
+}
+
+#nav1{
+  background-image: url("../assets/img/fondosi.png")!important;
+  background-size: cover;
+}
+
+.collapse{
+  justify-content: flex-end;
 }
